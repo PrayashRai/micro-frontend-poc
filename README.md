@@ -8,6 +8,12 @@ This project implements a **Micro-Frontend Architecture** using **React 18, Vite
 
 ---
 
+## 🎥 Demo
+
+![Micro-Frontend Demo](./chat-app/public/video.gif)
+
+---
+
 ## 🛠 Tech Stack
 
 - ⚛ **React 18**
