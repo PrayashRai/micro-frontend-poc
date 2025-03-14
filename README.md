@@ -123,9 +123,6 @@ Feel free to **fork** this repository, submit **pull requests**, or report **iss
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
